@@ -1,0 +1,15 @@
+[submodule "FabflixIDM"]
+	path = FabflixIDM
+	url = https://github.com/cynthiaau/FabflixIDM
+[submodule "FabflixMovieService"]
+	path = FabflixMovieService
+	url = https://github.com/cynthiaau/FabflixMovieService
+[submodule "FabflixBillingService"]
+	path = FabflixBillingService
+	url = https://github.com/cynthiaau/FabflixBillingService
+[submodule "FabflixAPIGateway"]
+	path = FabflixAPIGateway
+	url = https://github.com/cynthiaau/FabflixAPIGateway
+[submodule "FabflixFrontend"]
+	path = FabflixFrontend
+	url = https://github.com/cynthiaau/FabflixFrontend
